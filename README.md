@@ -6,3 +6,6 @@
 `Day 2:`
 - Learn Github & Git
 - React introduction, component
+
+`Day 3:`
+- My first tiny react app 
