@@ -11,4 +11,8 @@
 - My first tiny react app 
 
 `Day 4:`
-- The Pokedex app 
+- The Pokedex app
+
+`Day 5:`
+- The Pokedex app, almost complete the chapter 5 but the last lesson.
+
