@@ -9,3 +9,6 @@
 
 `Day 3:`
 - My first tiny react app 
+
+`Day 4:`
+- The Pokedex app 
