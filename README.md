@@ -22,3 +22,6 @@
 
 `Day 7:`
 - Start the **Dice-exercice**
+
+`Day 8:`
+- Complete **Dice-exercice**
