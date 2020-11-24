@@ -25,8 +25,10 @@
 
 `Day 8:`
 - Complete **Dice-exercice**
-*-> I need additional knowledge about: 1-Index of [JS], 2-Flex box of [CSS]
+*-> I need additional knowledge about: 1-Index of [JS], 2-Flex box of [CSS]*
 
 `Day 9:`
 - Review **State**. *It's not easy*
+`Day 10:`
+*note: css: tailwind, styled component are 2 best frameworks*
 
