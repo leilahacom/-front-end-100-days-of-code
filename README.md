@@ -29,6 +29,7 @@
 
 `Day 9:`
 - Review **State**. *It's not easy*
+
 `Day 10:`
 *note: css: tailwind, styled component are 2 best frameworks*
 
