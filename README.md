@@ -36,3 +36,7 @@
 `Day 11:`
 - Javascript: read overview of the first two chapter of the book **eloquent Javascript**
 
+`Day 14:`
+- **Flip Coin Exercise**
+
+
